@@ -2,9 +2,9 @@ const restful = require('node-restful')
 const mongoose = restful.mongoose
 
 const todoSchema = new mongoose.Schema({
-  descricao: { type: String, required: true },
+  description: { type: String, required: true },
   done: { type: Boolean, required: true, default: false },
-  criacao: {type: Date, default: Date.now }
+  createAt: {type: Date, default: Date.now }
 })
 
 module.exports = restful.model('Todo', todoSchema)
