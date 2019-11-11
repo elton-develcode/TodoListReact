@@ -12,13 +12,13 @@ Module in [Leroy Merlin](https://www.leroymerlin.com.br/) :copyright: - **Instal
 
 **Why:** By the need to manage installers to provide services.
 
-**What:** Manage and associate service provider and craftsman.
+**What:** Some purchase orders can generate orders from various service.
 </br></br></br>
 
 ## Summary
 </br>
 
-The **Lm-Instala-Provider** is a module to assist in the management of service providers and installers. It associates a provider with an craftsman.
+The **Lm-Instala-Provider** is a module for managing service provider and craftsman to perform customer service orders.
 
 </br>
 
