@@ -158,7 +158,7 @@ cd lm-instala-provider
        API_INSTALA_SATSFTN: http://localhost:8086/lm-instala-rating
        API_KEY: key
 ```
- :warning:  _Important file identification_
+ :warning:  Important file identification
 
 </br></br>
 
