@@ -3,16 +3,15 @@
 
 # Lm-Instala-Provider
 
-Module in [Leroy Merlin](https://www.leroymerlin.com.br/) :copyright: - **Instala** for system translation.
+Module in [Leroy Merlin](https://www.leroymerlin.com.br/) :copyright: - **Instala** for manages service provider and craftsman.
 </br></br>
 
 > Leroy Merlin Brazil  🇧🇷 - Instala Team
 
 </br>
 
-**Why:** To assist system translation according to the configured country.
-
-**What:** Returns the translation of the parameters as requested language.
+**Why:** By the need to manage installers to provide services.
+**What:** Manage and associate service provider and craftsman
 </br></br></br>
 
 ## Summary
