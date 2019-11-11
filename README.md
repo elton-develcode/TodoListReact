@@ -18,8 +18,7 @@ Module in [Leroy Merlin](https://www.leroymerlin.com.br/) :copyright: - **Instal
 ## Summary
 </br>
 
-The **Lm-Instala-Translations** is a module for defining the system language **Instala**
- will be configured, such as labels and messages and data visualization.
+The **Lm-Instala-Provider** is a module to assist in the management of service providers and installers. It associates a provider with an craftsman.
 
 </br>
 
