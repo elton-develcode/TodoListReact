@@ -54,13 +54,13 @@ Soon after your registration is validated, you will be available to execute work
 
 ### Installing It
 
-1. :octocat: Clone this repository and go to the lm-instala-translations folder:
+1. :octocat: Clone this repository and go to the lm-instala-provider folder:
  
 
 ```
-git clone https://github.com/leroy-merlin-br/lm-instala-translations.git
+git clone https://github.com/leroy-merlin-br/lm-instala-provider.git
 
-cd lm-instala-translations
+cd lm-instala-provider
 ```
 
 </br></br>
@@ -177,7 +177,7 @@ docker-compose up --build
 > Check in the docker-compose.yml file what port will be exposed on your host and ensure that they are not already used.
 
 When all components are started, you can access the app at :
-* **http://localhost:8089**
+* **http://localhost:8087**
 
 
 </br></br>
@@ -208,8 +208,8 @@ You might want to open an issue to discuss something that you believe that shoul
 
  ## Maintainers
 
-  * [Emerson Danieleski - emerson.danieleski@develcode.com.br](emerson.danieleski@develcode.com.br)
-  * [Gabriel Souza - gsouza@ext.leroymerlin.com.br](gsouza@ext.leroymerlin.com.br)
-  * [João P. Grasselli - joao.grasselli@develcode.com.br](joao.grasselli@develcode.com.br)
+  * [Emerson Danieleski - emerson.danieleski@develcode.com.br](emerson.danieleski@develcode.com.br):email:
+  * [Gabriel Souza - gsouza@ext.leroymerlin.com.br](gsouza@ext.leroymerlin.com.br):email:
+  * [João P. Grasselli - joao.grasselli@develcode.com.br](joao.grasselli@develcode.com.br):email:
 
   </br></br></br>
