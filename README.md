@@ -26,7 +26,7 @@ The **Lm-Instala-Provider** is a module for managing service provider and crafts
 
 </br>
 
-Let's say you know how to provide a specific service, such as installing air conditioners, and you want to provide this service to Leroy Merlin (good idea yah :haircut: ).
+Let's say you know how to provide a specific service, such as installing air conditioners, and you want to provide this service to Leroy Merlin (good idea yah :walking: ).
 
 You will need to register your business by providing some details and associating service providers with you.
 
