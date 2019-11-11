@@ -26,11 +26,12 @@ The **Lm-Instala-Provider** is a module for managing service provider and crafts
 
 </br>
 
-Let's say you have one in a specific country, such as Germany, and need to access the system.
+Let's say you know how to provide a specific service, such as installing air conditioners, and you want to provide this service to Leroy Merlin (good idea yah :haircut: ).
 
-Possibly when going through this module, the system should change the messages and set it to the configured country.
+You will need to register your business by providing some details and associating service providers with you.
 
-Some languages already accepted in this module: Portuguese from Portugal / Brazil, Italian, German, Polish, English ...
+Soon after your registration is validated, you will be available to execute work orders according to your specificity.
+
 </br></br>
 
 ## Getting started
