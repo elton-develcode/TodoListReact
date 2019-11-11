@@ -184,7 +184,7 @@ When all components are started, you can access the app at :
 
 ## Testing
 
-To run the tests, run the command
+To run the tests, run the command :pray:
 
 ```
 mvn test
